@@ -11,7 +11,7 @@ metadata:
 spec:
   ingressClassName: alb
   rules:
-    - host: gammattu.in
+    - host: www.gammattu.in
       http:
         paths:
           - path: /api
